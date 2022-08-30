@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1661299784 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-23\main.c
+1661544512 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-23\main.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 
